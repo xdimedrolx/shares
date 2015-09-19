@@ -1,0 +1,29 @@
+{
+  "name": "xdimedrolx/shares",
+  "description": "Social share counts",
+  "keywords": ["social", "share"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xdimedrolx",
+      "email": "xdimedrolx@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "guzzlehttp/guzzle": "~5.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Shares\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Shares\\Tests\\": "tests/"
+    }
+  }
+}
