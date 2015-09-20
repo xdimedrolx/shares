@@ -1,10 +1,12 @@
 # Shares
 
-A simple PHP library to fetch the count of social shares. Supports providers for *vk.com, facebook.com, twitter.com, mail.ru, ok.ru*
+A simple PHP library to fetch the count of social shares. Supported providers: *vk.com, facebook.com, twitter.com, mail.ru, ok.ru*
 
 ## Install
 
-// todo
+```
+composer require xdimedrolx/shares
+```
 
 ## Usage
 
