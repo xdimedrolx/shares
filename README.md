@@ -5,7 +5,7 @@ A simple PHP library to fetch the count of social shares. Supported providers: *
 ## Requires
 
 * php: >=5.4
-* guzzlehttp/guzzle: ~5.3
+* guzzlehttp/guzzle: ~5.2
 
 ## Install
 
